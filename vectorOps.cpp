@@ -70,8 +70,8 @@ int gcd(int a,int b){
 
             b = b - a;
         }
-    return a ;
     }
+    return a ;
 }
 int main(void){
 
